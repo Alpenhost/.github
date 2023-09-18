@@ -1,3 +1,4 @@
+![Alpenhost](https://github.com/Alpenhost/bilder/raw/main/Lila%20Gelb%20Schwarz%20Neon%20SciFi%20YouTube-Kanal-Art.png)
 # WILLKOMMEN IM ALPENHOST OPEN SOURCE PROJEKT! 🚀
 
 Herzlich willkommen im Alpenhost Open Source Projekt! Wir sind begeistert von Ihrer Interesse an unserer Open-Source-Initiative. Hier finden Sie Ressourcen und Informationen, um mit unseren Projekten zu arbeiten und zur Entwicklung unserer Open-Source-Community beizutragen.
